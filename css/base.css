@@ -20,12 +20,12 @@
 
   --montserrat: 'Montserrat', sans-serif;
 
-  --nome-da-variavel:valor;
+  /*--nome-da-variavel:valor*/
 }  
 
 
 body {
-  font-family: 'Open Sans'; 'sans-serif';
+  font-family: 'Open Sans'; sans-serif;
 }
 
 .container {
